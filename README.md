@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/brunolimat1/git-github)
 
-![](https://github.com/brunolimat1/git-github/blob/main/646196_earth_global_globe_internet_network_icon.png)
+![]([https://github.com/brunolimat1/git-github/blob/main/646196_earth_global_globe_internet_network_icon.png](https://cdn2.iconfinder.com/data/icons/downtown-illustrations/1000/holidays___halloween_costume_monster_evil_scary_spooky_killer_serial-256.png)
 
 
 ███████████▓▓▓▓▓▓▓▓▒░░░░░▒▒░░░░░░░▓█████
