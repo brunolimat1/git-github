@@ -1,7 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/brunolimat1/git-github)
 
-![](![image](https://user-images.githubusercontent.com/104094262/171052721-a7360e18-4846-4b53-9521-ce8254e4acfa.png)
-)
+![]()
 
 ███████████▓▓▓▓▓▓▓▓▒░░░░░▒▒░░░░░░░▓█████
 ██████████▓▓▓▓▓▓▓▓▒░░░░░▒▒▒░░░░░░░░▓████
