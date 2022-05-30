@@ -1,4 +1,4 @@
-https://img.shields.io/github/license/brunolimat1/git-github
+![GitHub](https://img.shields.io/github/license/brunolimat1/git-github)
 
 ──────────────────────────────▓▓█───────
 ────────────────────────────▒██▒▒█──────
