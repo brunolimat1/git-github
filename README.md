@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/brunolimat1/git-github)
 
-![](https://github.com/brunolimat1/git-github/blob/main/imagem_2022-05-30_165034762.png) ![](https://github.com/brunolimat1/git-github/blob/main/imagem_2022-05-30_165034762.png) ![](https://github.com/brunolimat1/git-github/blob/main/imagem_2022-05-30_165034762.png) ![](https://github.com/brunolimat1/git-github/blob/main/imagem_2022-05-30_165034762.png) ![](https://github.com/brunolimat1/git-github/blob/main/imagem_2022-05-30_165034762.png)
+![](https://github.com/brunolimat1/git-github/blob/main/5eeea355389655.59822ff824b72.gif)
 
 # Tutorial GIT e GitHub
 Tutorial de uso das ferramentas Git e GitHub
